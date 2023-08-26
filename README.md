@@ -2,7 +2,7 @@
 
 ### Atualmente estou fazendo faculdade de ADS pela uniasselvi
 
-###Também estudo JAVA pelo bootcamp da DIO
+### Também estudo JAVA pelo bootcamp da DIO
 
 <div>
   <a href="https://github.com/CRAUS123">
