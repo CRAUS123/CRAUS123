@@ -1,5 +1,9 @@
 ### Olá, me chamo Carlos Victor
 
+### Atualmente estou fazendo faculdade de ADS pela uniasselvi
+
+###Também estudo JAVA pelo bootcamp da DIO
+
 <div>
   <a href="https://github.com/CRAUS123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CRAUS123&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
